@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="24.7.17">
+  <diagram name="Página-1" id="0rH83l1l4jXR49rLZLAr">
+    <mxGraphModel dx="1386" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YcrFNkAO1UnzOaHqrd_d-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=-12;fontFamily=Lucida Console;fontSize=12;" edge="1" parent="1" source="YcrFNkAO1UnzOaHqrd_d-12" target="YcrFNkAO1UnzOaHqrd_d-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcrFNkAO1UnzOaHqrd_d-12" value="&lt;p style=&quot;font-size: 12px;&quot;&gt;resultado = 0&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;align=center;spacing=-12;fontFamily=Lucida Console;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YcrFNkAO1UnzOaHqrd_d-13" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Lucida Console;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" target="YcrFNkAO1UnzOaHqrd_d-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="120" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YcrFNkAO1UnzOaHqrd_d-22" value="comece" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;spacing=-12;fontSize=15;" edge="1" parent="1" source="YcrFNkAO1UnzOaHqrd_d-14" target="YcrFNkAO1UnzOaHqrd_d-18">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YcrFNkAO1UnzOaHqrd_d-14" value="&lt;p style=&quot;font-size: 12px;&quot;&gt;a = 0&lt;/p&gt;&lt;p style=&quot;font-size: 12px;&quot;&gt;b = 1&lt;/p&gt;&lt;p style=&quot;font-size: 12px;&quot;&gt;i = 2&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;align=center;spacing=-12;fontFamily=Lucida Console;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YcrFNkAO1UnzOaHqrd_d-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=12;" edge="1" parent="1" source="YcrFNkAO1UnzOaHqrd_d-15" target="YcrFNkAO1UnzOaHqrd_d-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcrFNkAO1UnzOaHqrd_d-15" value="&lt;p style=&quot;font-size: 12px;&quot;&gt;resultado = b&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;align=center;spacing=-12;fontFamily=Lucida Console;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="374" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YcrFNkAO1UnzOaHqrd_d-27" value="!(i &amp;lt;= n)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=15;" edge="1" parent="1" source="YcrFNkAO1UnzOaHqrd_d-16" target="YcrFNkAO1UnzOaHqrd_d-15">
+          <mxGeometry x="0.4113" y="-10" relative="1" as="geometry">
+            <mxPoint x="690" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="200" />
+              <mxPoint x="750" y="380" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YcrFNkAO1UnzOaHqrd_d-28" value="i &amp;lt;= n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=15;" edge="1" parent="1" source="YcrFNkAO1UnzOaHqrd_d-16" target="YcrFNkAO1UnzOaHqrd_d-18">
+          <mxGeometry x="-0.0323" y="-10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="140" />
+              <mxPoint x="420" y="140" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YcrFNkAO1UnzOaHqrd_d-16" value="&lt;p style=&quot;font-size: 12px;&quot;&gt;b = temp&lt;/p&gt;&lt;p style=&quot;font-size: 12px;&quot;&gt;i++&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;align=center;spacing=-12;fontFamily=Lucida Console;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="650" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YcrFNkAO1UnzOaHqrd_d-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=12;" edge="1" parent="1" source="YcrFNkAO1UnzOaHqrd_d-17" target="YcrFNkAO1UnzOaHqrd_d-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcrFNkAO1UnzOaHqrd_d-17" value="&lt;p style=&quot;font-size: 12px;&quot;&gt;a = b&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;align=center;spacing=-12;fontFamily=Lucida Console;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="510" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YcrFNkAO1UnzOaHqrd_d-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=12;" edge="1" parent="1" source="YcrFNkAO1UnzOaHqrd_d-18" target="YcrFNkAO1UnzOaHqrd_d-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcrFNkAO1UnzOaHqrd_d-18" value="&lt;p style=&quot;font-size: 12px;&quot;&gt;temp = a + b&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;horizontal=1;labelPosition=center;verticalLabelPosition=bottom;align=center;spacing=-12;fontFamily=Lucida Console;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YcrFNkAO1UnzOaHqrd_d-21" value="!comece" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;spacing=-12;fontSize=15;" edge="1" parent="1" source="YcrFNkAO1UnzOaHqrd_d-14" target="YcrFNkAO1UnzOaHqrd_d-14">
+          <mxGeometry x="0.0246" y="-10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="130" />
+              <mxPoint x="212" y="130" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
